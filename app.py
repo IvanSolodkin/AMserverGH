@@ -1,4 +1,4 @@
-#gpt 4 NEW 123server HABR https://habr.com/ru/companies/amvera/articles/829592/
+#gpt 4 NEW 123123132server HABR https://habr.com/ru/companies/amvera/articles/829592/
 
 import openai
 import telebot
